@@ -1,0 +1,2 @@
+# CSE-3541-Tank-Game
+For my lab 6 I implemented a procedurally generated tank game in Unity. Which includes randomized levels with more and more tanks for you to defeat. The player’s tank can shoot, destroy tanks, move out of the way of enemy tanks.The application is straightforward, you just run the application and you can control the player tank with keyboard or gamepad, whichever you want. Go through each level destroying every enemy tank on the screen to proceed, beat level 11 to win.
